@@ -1,4 +1,4 @@
-ext Sentiment Prediction
+                                                                  Text Sentiment Prediction
 This project is designed to predict the sentiment of text data, helping to understand the emotions and opinions expressed in the text. The tool can analyze text data to classify it as positive, negative, or neutral, which can be useful in various applications like customer feedback analysis, product reviews, social media sentiment analysis, and more.
 
 Features
